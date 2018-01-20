@@ -1,0 +1,8 @@
+{
+  "name": "url-parser-lite",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:metagrover/simple-url-parser.git",
+  "author": "Deepak Grover <deepakgrover333@gmail.com>",
+  "license": "MIT"
+}
