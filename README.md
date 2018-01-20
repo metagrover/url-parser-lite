@@ -15,7 +15,7 @@ npm i url-parser-lite
 
 ## Usage
 
-```
+```js
 import URL from 'url-parser-lite';
 
 const parsedURL = URL('https://username:pa$$w0rd@github.com/metagrover?repos=21#readme');
