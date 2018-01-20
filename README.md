@@ -2,7 +2,7 @@
 
 
 
-URL Parser < 1kB (360 bytes) :fire: for ALL JavaScript environments
+URL Parser < 0.3kB :fire: for ALL JavaScript environments
 
 ## Installation
 
