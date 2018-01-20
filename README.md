@@ -1,4 +1,7 @@
-# url-parser-lite
+# url-parser-lite &middot; [![npm version](https://badge.fury.io/js/url-parser-lite.svg)](https://badge.fury.io/js/url-parser-lite) [![](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/metagrover/url-parser-lite/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
+
+
+
 URL Parser < 1kB (360 bytes) :fire: for ALL JavaScript environments
 
 ## Installation
