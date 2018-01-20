@@ -25,11 +25,11 @@ const parsedURL = URL('https://username:pa$$w0rd@github.com/metagrover?repos=21#
 
 // returns
 {
-    protocol: "https"
-    auth: "username:pa$$w0rd"
-    host: "github.com"
-    path: "/metagrover"
-    hash: "readme"
+    protocol: "https",
+    auth: "username:pa$$w0rd",
+    host: "github.com",
+    path: "/metagrover",
+    hash: "readme",
     query: "repos=21"
 }
 ```
